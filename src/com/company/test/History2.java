@@ -4,6 +4,7 @@ package com.company.test;
  * Created by heystephen on 2020/2/4.
  */
 public class History2 {
+    //1 - 4 之间 拿出任意3个数  最多能组成多少个数字  并打印
     public static void main(String[] args) {
         int array[] = {1, 2, 3, 4};
         for (int i = 0; i < array.length; i++) {

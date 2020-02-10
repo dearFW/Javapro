@@ -4,6 +4,7 @@ package com.company.test;
  * Created by heystephen on 2020/2/4.
  */
 public class History4 {
+    //水仙花数
     public static void main(String[] args) {
         for(int i=100;i<=999;i++){
             int a = i/100;
