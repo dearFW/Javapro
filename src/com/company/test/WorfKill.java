@@ -17,6 +17,7 @@ public class WorfKill {
              * */
             Scanner scanner = new Scanner(System.in);
             // 接收游戏人数
+            System.out.println("请输入游戏人数");
             int player = scanner.nextInt();
             if(player>18||player<12){
                 System.out.println("不符合游戏人数");
