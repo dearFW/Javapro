@@ -21,8 +21,6 @@ public class WorfKill {
             if(player>18||player<12){
                 System.out.println("不符合游戏人数");
             }else{
-
-
                 /**
                  *  符合游戏人数后  进行发牌
                  *
